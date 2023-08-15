@@ -20,6 +20,6 @@
 - Transverse
 - Sagittal
 - Decubitus
-Overall, I collected 21247 images from the database and related data about them such as title, caption, modality, demographics, topic, disease discussion, location, and category.
+<br>Overall, I collected 21247 images from the database and related data about them such as title, caption, modality, demographics, topic, disease discussion, location, and category.
 You can access this dataset from the below link:
 https://drive.google.com/drive/folders/1Ulzsy12HfuTq5ANNWh-H7_jPOE74wmeF?usp=sharing
